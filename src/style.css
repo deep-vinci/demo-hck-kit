@@ -1,0 +1,11 @@
+body {
+    background-color: skyblue;
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    width: 100vw;
+    background-color: wheat;
+    gap: 20px;
+}
