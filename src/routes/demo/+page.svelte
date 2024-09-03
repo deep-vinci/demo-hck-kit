@@ -17,8 +17,6 @@
     <h1>Fetched Data (Client-Side)</h1>
     {#if data}
       <p>{data.fact}</p>
-    {:else}
-      <p>Loading...</p>
     {/if}
   </main>
   
